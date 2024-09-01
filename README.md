@@ -1,1 +1,1 @@
-# Slot-Machine-Project
+# Slot-Machine-Project-using-Python
